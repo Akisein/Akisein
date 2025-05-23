@@ -1,7 +1,9 @@
 ## Hi there 👋
-<p>oh wait</p>
-<p>you shouldn't see this</p>
-<p>let me help you redirecting to <a href="https://github.com">Github</a></p>
+<p>I'm currently learning Data Science and Big Data Technology at Lenovo Education Technology Co., LTD.</p>
+<p>You can call me Akisein or Togawa Sakiko,or maybe just call me realname,it dosen't matter.</p>
+<p>If you don't know how to enter this page,<a href="https://github.com">Click here return Github</a></p>
+<a href="mailto:moyo@moyo.icu">click & send me an email</a>
+<p>check my TODO List at <a href="https://moyo.icu/todo">Moyo.TODO</a></p>
 <!--
 **Akisein/Akisein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
